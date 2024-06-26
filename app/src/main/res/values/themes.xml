@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.ElegantButtons" parent="Theme.Material3.DynamicColors.DayNight.NoActionBar">
+    </style>
+
+    <style name="AppTheme" parent="Base.Theme.ElegantButtons">
+    </style>
+
+    <style name="Theme.ElegantButtons" parent="Base.Theme.ElegantButtons">
+    </style>
+
+
+</resources>

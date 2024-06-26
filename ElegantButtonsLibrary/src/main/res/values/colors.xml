@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="button1_start_color">#FFEB3B</color>
+    <color name="button1_end_color">#FFA726</color>
+    <color name="button1_pressed_color">#FFA726</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="button2_border_color">#000000</color>
+    <color name="button2_text_color">#000000</color>
+</resources>

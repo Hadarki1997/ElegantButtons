@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/button1_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#FFA726"/>
+            <corners android:radius="42dp"/>
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <gradient android:angle="45" android:startColor="#FFEB3B" android:endColor="#FFA726"/>
+            <corners android:radius="30dp"/>
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,88 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/Button1"
+        android:text="Button 1"
+        android:layout_centerHorizontal="true"/>
+
+
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/Button2"
+        android:text="Button 2"
+        android:layout_below="@id/button1"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button3"
+        style="@style/Button3"
+        android:text="Button 3"
+        android:layout_below="@id/button2"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button4"
+        style="@style/Button4"
+        android:text="Button 4"
+        android:layout_below="@id/button3"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button5"
+        style="@style/Button5"
+        android:text="Button 5"
+        android:layout_below="@id/button4"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button6"
+        style="@style/Button6"
+        android:text="Button 6"
+        android:layout_below="@id/button5"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button7"
+        style="@style/Button7"
+        android:text="Button 7"
+        android:layout_below="@id/button6"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button8"
+        style="@style/Button8"
+        android:text="Button 8"
+        android:layout_below="@id/button7"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button9"
+        style="@style/Button9"
+        android:text="Button 9"
+        android:layout_below="@id/button8"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button10"
+        style="@style/Button10"
+        android:text="Button 10"
+        android:layout_below="@id/button9"
+        android:layout_marginTop="10dp"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
