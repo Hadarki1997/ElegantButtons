@@ -11,8 +11,6 @@
         android:text="Button 1"
         android:layout_centerHorizontal="true"/>
 
-
-
     <Button
         android:id="@+id/button2"
         style="@style/Button2"
