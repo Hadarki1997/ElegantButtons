@@ -2,6 +2,14 @@
 
 ElegantButtonsLibrary is a custom Android library that provides a set of stylish and customizable buttons inspired by popular video games. These buttons are perfect for game developers looking to add a professional and engaging look to their game interfaces.
 
+## Features
+
+- A variety of button styles inspired by popular computer games.
+- Easy customization of button colors, text, and fonts.
+- Support for both XML and programmatic customization.
+- Includes buttons with gradients, rounded corners, and vector backgrounds.
+
+
 ## Installation
 
 To include the ElegantButtonsLibrary in your project, follow these steps:
@@ -95,4 +103,8 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+## Credits
+ElegantButtonsLibrary is developed by Hadarki1997. Special thanks to the open-source community for providing inspiration and resources.
+
+
 
