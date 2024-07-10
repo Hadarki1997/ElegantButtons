@@ -106,5 +106,7 @@ public class MainActivity extends AppCompatActivity {
 ## Credits
 ElegantButtonsLibrary is developed by Hadarki1997. Special thanks to the open-source community for providing inspiration and resources.
 
+## DEMO
 
+[Screen_recording_20240711_002033.webm](https://github.com/Hadarki1997/ElegantButtons/assets/95416402/d6fb4fbb-11e1-495b-9ea7-e4949aa7b3d6)
 
